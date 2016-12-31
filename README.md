@@ -1,4 +1,4 @@
-# Bunto Announce Bot
+# Bunto Announce Bot [![Travis CI Build Status](https://travis-ci.org/bunto/bunto-announce-bot.svg?branch=master)](https://travis-ci.org/bunto/bunto-announce-bot)
 
 > Announce new releases & tags from Bunto repositories to Twitter: https://twitter.com/buntowaf.
 

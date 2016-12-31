@@ -5,10 +5,10 @@
 
 ## Deployment
 
-* Create a twitter account
-* Register a [new twitter oauth app](https://dev.twitter.com/docs/auth/tokens-devtwittercom)
-* Set the permissions to `read/write`
-* Generate a personal key for your account
+* Create a twitter account.
+* Register a [new twitter oauth app](https://dev.twitter.com/docs/auth/tokens-devtwittercom).
+* Set the permissions to `read/write`.
+* Generate a personal key for your account.
 
 Substituting for your new settings, run:
 
@@ -42,4 +42,4 @@ heroku local web -p 4567
 
 ## What does it looks like?
 
-Check out the [official Twitter account](https://twitter.com/buntowaf)
+Check out the [official Twitter account](https://twitter.com/buntowaf).
